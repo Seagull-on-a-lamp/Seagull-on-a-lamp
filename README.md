@@ -1,7 +1,7 @@
 ## Hello, I'm Liam
 
 
-I'm a fourth year computer science student @ [Carleton University](https://carleton.ca)
+I'm a fifth year computer science student @ [Carleton University](https://carleton.ca)
 
 
 ---
